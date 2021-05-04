@@ -1,6 +1,7 @@
 # Human-Impacts-on-Fire-Instances
 Final Project, Tyler Bull to investigate how population density affect fire instances.
 Final Project Interim 1, Tyler Bull
+tybull74@gmail.com
 
 
 Checklist of items for Interim 1
