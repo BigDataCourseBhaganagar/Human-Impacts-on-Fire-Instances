@@ -21,7 +21,7 @@ Numpy
 Matplotlib
 
 Code Capabilities:
-The code iscapable of reading the fire data from the datasource 1 above and selecting countries and their data based upon the population rate of change conditions analyzed from datasource 2 above. The code will then be capable of interpreting the fire data of the select countries to determine the quantity, and tions of fires in the country of interest across the years of data. Further capabilities of the code include looping through a list of countries to evaluate any number of analyses of the datasets, and demonstrating this capability by performing regressional analyses on all of the datasets. 
+The code iscapable of reading the fire data from the datasource 1 above and selecting countries and their data based upon the population rate of change conditions analyzed from datasource 2 above. The code will then be capable of interpreting the fire data of the select countries to determine the quantity of fires in the countries of interest across the years of data. Further capabilities of the code include looping through a list of countries to evaluate any number of analyses of the datasets, and demonstrating this capability by performing regressional analyses on all of the datasets. 
 
 All other details of the function and operation of the code can be found in the notes within the code. 
 
